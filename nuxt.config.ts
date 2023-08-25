@@ -6,12 +6,10 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss'],
   css: ["@/assets/css/tailwind.css"], // <= ドキュメントからさらに追加
   nitro: {
-    output: {
-      publicDir: path.join(__dirname, 'docs')
-    }
+    preset: 'github-pages'
   },
-  app: {
-    cdnURL: 'https://tukumouji99.github.io/alkome-jp/',
-    baseURL: '/alkome-jp/'
-  },
+  // app: {
+  //   cdnURL: 'https://tukumouji99.github.io/alkome-jp/',
+  //   baseURL: '/alkome-jp/'
+  // },
 })
