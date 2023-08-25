@@ -8,7 +8,7 @@ export default defineNuxtConfig({
   nitro: {
     preset: 'github-pages',
     output: {
-      publicDir: path.join(__dirname, 'doc')
+      publicDir: path.join(__dirname, 'docs')
     }
   },
   app: {

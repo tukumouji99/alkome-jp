@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as c,a as t}from"./entry.d36f85bc.js";const a={},s={href:"mailto:alkome.music@gmail.com"},n=t("h1",null,"alkome.music@gmail.com",-1),_=[n];function m(r,i){return c(),o("a",s,_)}const d=e(a,[["render",m]]);export{d as default};
