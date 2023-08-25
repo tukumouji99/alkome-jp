@@ -11,6 +11,7 @@ export default defineNuxtConfig({
     }
   },
   app: {
-    cdnURL: 'https://tukumouji99.github.io/alkome-jp/'
+    cdnURL: 'https://tukumouji99.github.io/alkome-jp/',
+    baseURL: '/alkome-jp/'
   },
 })
