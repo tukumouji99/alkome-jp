@@ -143,7 +143,8 @@
               </a>
               <span class="note">
                 楽曲提供:
-                <a href="https://twitter.com/MUSYNC_official/status/1487684690005807107" class="note">MUSYNC</a>
+                <a href="https://steamcommunity.com/games/952040/announcements/detail/5297923907234397712"
+                  class="note">MUSYNC</a>
               </span>
             </li>
             <li>
