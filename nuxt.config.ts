@@ -9,7 +9,6 @@ export default defineNuxtConfig({
     preset: 'github-pages'
   },
   app: {
-    cdnURL: '/alkome-jp/',
-    // baseURL: '/alkome-jp'
+    baseURL: '/alkome-jp/',
   },
 })
