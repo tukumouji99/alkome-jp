@@ -12,6 +12,5 @@ export default defineNuxtConfig({
     }
   },
   app: {
-    baseURL: '/alkome-jp/',
   },
 })
