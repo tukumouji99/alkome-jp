@@ -4,16 +4,19 @@
   </div>
   <works />
   <contact />
+  <links />
 </template>
 
 <script>
 import works from '~/pages/works.vue'
 import contact from '~/pages/contact.vue'
+import links from '~/pages/links.vue'
 
 export default {
   components: {
     works,
-    contact
+    contact,
+    links
   }
 }
 </script>
