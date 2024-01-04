@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto ">
-    <p class="text-4xl font-black">Contact</p>
+    <p class="text-4xl font-black py-4">Contact</p>
     <a href="mailto:alkome.music@gmail.com">
       <h1 class="py-3	, text-2xl">alkome.music@gmail.com</h1>
     </a>
