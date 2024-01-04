@@ -1,8 +1,11 @@
 <template>
-  <header class="header" ref="header" :class="headerFixed">
+  <header class="header" ref="header">
     <div class="container">
       <nav>
         <ul class="gnav">
+          <li>
+            <NuxtLink to="/">TOP</NuxtLink>
+          </li>
           <li>
             <NuxtLink to="/works">WORKS</NuxtLink>
           </li>
@@ -14,56 +17,6 @@
     </div>
   </header>
 </template>
-
-<script>
-export default {
-  props: ["spNavFlag"],
-  data() {
-    return {
-      headerHeight: "",
-      windowHeight: "",
-      windowWidth: "",
-      headerFixed: null,
-      gnavFixed: null,
-      nowFixed: false,
-      spNavBtnState: true
-    };
-  },
-  mounted() {
-    this.windowWidth = window.innerWidth;
-    this.headerHeight = this.$refs.header.clientHeight;
-    window.addEventListener("scroll", this.scrollWindow);
-  },
-  methods: {
-    scrollWindow() {
-      this.windowHeight = window.scrollY;
-      if (this.headerHeight < this.windowHeight) {
-        this.headerFixed = "header-fixed";
-        this.gnavFixed = "gnav-fixed";
-        this.nowFixed = false;
-      } else {
-        this.headerFixed = null;
-        this.gnavFixed = null;
-      }
-
-      if (this.nowFixed) {
-        this.headerFixed = "header-fixed";
-        this.gnavFixed = "gnav-fixed";
-      }
-    },
-    spNavClick() {
-      this.$emit("clickSpNav");
-    }
-  },
-  watch: {
-    $route() {
-      if (this.headerFixed) {
-        this.nowFixed = true;
-      }
-    }
-  }
-};
-</script>
 
 <style lang="scss" scoped>
 .header {
@@ -110,26 +63,11 @@ export default {
 }
 
 .link-active.gnav-fixed {
-  border-bottom: 2px solid #fff;
+  border-bottom: 2px solid #d35050;
 }
 
 .link-active {
   border-bottom: 2px solid black;
-}
-
-@media screen and (max-width: 968px) {
-  .header {
-    padding: 20px 0;
-
-    .container {
-      display: block;
-      text-align: center;
-
-      .main-title {
-        font-size: 2.6rem;
-      }
-    }
-  }
 }
 
 .sp-nav-btn {

@@ -1,11 +1,78 @@
 <template>
   <div class="container mx-auto">
     <ul class="border-solid">
-      <p class="text-2xl font-black">Works</p>
+      <p class="text-4xl font-black">Works</p>
       <ul>
         <li>
-          <p class="text-xl font-bold">2023</p>
+          <p class="text-2xl font-black">2024</p>
           <ol>
+            <li>
+              <a href="https://p.eagate.573.jp/game/ddr/25th/music/index.html#:~:text=%E5%90%88%E6%A0%BC%E8%80%85%E4%B8%80%E8%A6%A7-,Alkome,-AMAZE"
+                target="_blank" rel="noopener noreferrer">
+                <p>
+                  <span class="title">楽曲未公開 / Konami Amusement "Dance Dance Revolution"</span>
+                  <span class="note">公募採用</span>
+                </p>
+              </a>
+            </li>
+          </ol>
+          <ol>
+            <li>
+              <a href="https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/30/index.html#:~:text=7mai-,Alkome,-Ashrount"
+                target="_blank" rel="noopener noreferrer">
+                <p>
+                  <span class="title">楽曲未公開 / Konami Amusement "SOUND VOLTEX"</span>
+                  <span class="note">公募採用</span>
+                </p>
+              </a>
+            </li>
+          </ol>
+        </li>
+        <li>
+          <p class="text-2xl font-black">2023</p>
+          <ol>
+            <li>
+              <a href="https://x.com/Alkome0x63/status/1740299065190146127" target="_blank" rel="noopener noreferrer">
+                <p>
+                  <span class="title">金烏玉兎 / Diverse System "JAPAN 2"</span>
+                  <span class="note">公募採用</span>
+                </p>
+              </a>
+            </li>
+            <li>
+              <a href="https://karalineavu.bandcamp.com/album/hardcore-utopia-5" target="_blank"
+                rel="noopener noreferrer">
+                <p>
+                  <span class="title">Diffusing Souls / Kara "HARDCORE UTOPIA 5"</span>
+                </p>
+                <span class="note">楽曲提供(作編曲)</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://youtu.be/yRgk6X7hEg4?si=_epnBjRzd9_vlVx-" target="_blank" rel="noopener noreferrer">
+                <p>
+                  <span class="title">BIG LOVE</span>
+                </p>
+                <span class="note">Self Release</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://big-up.style/MyQSjU5Txq" target="_blank" rel="noopener noreferrer">
+                <p>
+                  <span class="title">NeverDolls - ふらふらぽんぺ</span>
+                  <span class="note">楽曲提供(作編曲)</span>
+                </p>
+              </a>
+            </li>
+            <li>
+              <a href="https://p.eagate.573.jp/game/sdvx/sv/p/floor/remix/11/index_2.html#:~:text=Dawn%20of%20Asia(Alkome%20Remix)"
+                target="_blank" rel="noopener noreferrer">
+                <p>
+                  <span class="title">Dawn of Asia(Alkome Remix) / Konami Amusement "SOUND VOLTEX"</span>
+                  <span class="note">公募採用</span>
+                </p>
+              </a>
+            </li>
             <li>
               <a href="https://linkco.re/60tU3cr0?lang=ja" target="_blank" rel="noopener noreferrer">
                 <p>
@@ -33,7 +100,7 @@
           </ol>
         </li>
         <li>
-          <p class="text-xl font-bold">2022</p>
+          <p class="text-2xl font-black">2022</p>
           <ol>
             <li>
               <a href="https://linkco.re/DxmV8eDf?lang=ja" target="_blank" rel="noopener noreferrer">
@@ -87,7 +154,7 @@
           </ol>
         </li>
         <li>
-          <p class="text-xl font-bold">2021</p>
+          <p class="text-2xl font-black">2021</p>
           <ol>
             <li>
               <a href="https://linkco.re/V4Gx40BF" target="_blank" rel="noopener noreferrer">
@@ -116,7 +183,7 @@
           </ol>
         </li>
         <li>
-          <p class="text-xl font-bold">2020</p>
+          <p class="text-2xl font-black">2020</p>
           <ol>
             <li>
               <a href="https://linkco.re/hmF3YQpb?lang=ja" target="_blank" rel="noopener noreferrer">
@@ -137,7 +204,7 @@
             <li>
               <a href="https://www.youtube.com/watch?v=Vs9sqB-NrlA" target="_blank" rel="noopener noreferrer">
                 <p>
-                  <span class="title">Alkome - Mind Disorder</span>
+                  <span class="title">Mind Disorder</span>
                 </p>
                 <span class="note">Self Release</span>
               </a>
@@ -151,7 +218,7 @@
               <a href="https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/26/index.html#:~:text=FILE%20NO.016-,Innocent,-Alkome(%E7%AC%AC3"
                 target="_blank" rel="noopener noreferrer">
                 <p>
-                  <span class="title">Alkome - Innocent/SOUND VOLTEX </span>
+                  <span class="title">Innocent / Konami Amusement "SOUND VOLTEX"</span>
                   <span class="note">公募採用</span>
                 </p>
               </a>
@@ -159,7 +226,7 @@
             <li>
               <a href="https://www.youtube.com/watch?v=z6nKWEF3E2s" target="_blank" rel="noopener noreferrer">
                 <p>
-                  <span class="title">Alkome - Gate of Hell/SEVEN’s CODE</span>
+                  <span class="title">Gate of Hell / UNLIMITED STUDiO "SEVEN’s CODE"</span>
                   <span class="note">楽曲提供</span>
                 </p>
               </a>
@@ -175,13 +242,21 @@
           </ol>
         </li>
         <li>
-          <p class="text-xl font-bold">2019</p>
+          <p class="text-2xl font-black">2019</p>
           <ol>
             <li>
               <a href="https://big-up.style/uliwbjKi2H" target="_blank" rel="noopener noreferrer">
                 <p>
                   <span class="title">I'll Be EP</span>
                   <span class="note">Self Release</span>
+                </p>
+              </a>
+            </li>
+            <li>
+              <a href="https://youtu.be/_sjy4ZhCj78?si=fqNj-igI8IE2Ix5z" target="_blank" rel="noopener noreferrer">
+                <p>
+                  <span class="title">Take Me / Diverse System "AD:Drum'n Bass 4"</span>
+                  <span class="note">公募採用</span>
                 </p>
               </a>
             </li>
@@ -204,7 +279,7 @@
             <li>
               <a href="https://www.youtube.com/watch?v=4MTFvCOHNuw" target="_blank" rel="noopener noreferrer">
                 <p>
-                  <span class="title">Alkome - Sanctify 2.0/SEVEN’s CODE</span>
+                  <span class="title">Sanctify 2.0 / SEVEN’s CODE</span>
                   <span class="note">楽曲提供</span>
                 </p>
               </a>
