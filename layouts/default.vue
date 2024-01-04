@@ -5,8 +5,9 @@
 <template>
   <div>
     <header-section />
-    <slot />
   </div>
+
+  <slot />
 </template>
 
 <script>
