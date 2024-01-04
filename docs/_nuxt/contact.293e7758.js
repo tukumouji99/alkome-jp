@@ -1,1 +1,0 @@
-import{_ as c,c as o,o as e,a as t}from"./entry.f0d681df.js";const s={},a={class:"container mx-auto"},n=t("p",{class:"text-4xl font-black"},"Contact",-1),_=t("a",{href:"mailto:alkome.music@gmail.com"},[t("h1",{class:"py-3 , text-2xl"},"alkome.music@gmail.com")],-1),l=[n,_];function i(m,r){return e(),o("div",a,l)}const f=c(s,[["render",i]]);export{f as default};

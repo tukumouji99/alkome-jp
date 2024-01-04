@@ -6,3 +6,30 @@
     </a>
   </div>
 </template>
+
+<style scoped>
+.list-width {
+  width: fit-content;
+  margin: auto;
+}
+
+span {
+  @apply block
+}
+
+span.title {
+  @apply text-base
+}
+
+.note {
+  @apply text-sm
+}
+
+li {
+  @apply py-1.5
+}
+
+a:hover {
+  color: #00a9ef
+}
+</style>

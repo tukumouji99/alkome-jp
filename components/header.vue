@@ -12,6 +12,9 @@
           <li>
             <NuxtLink to="/contact">CONTACT</NuxtLink>
           </li>
+          <li>
+            <NuxtLink to="/links">LINKS</NuxtLink>
+          </li>
         </ul>
       </nav>
     </div>
