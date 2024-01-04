@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto">
     <ul class="border-solid">
-      <p class="text-4xl font-black">Works</p>
+      <p class="text-4xl font-black py-4">Works</p>
       <ul>
         <li>
           <p class="text-2xl font-black">2024</p>
