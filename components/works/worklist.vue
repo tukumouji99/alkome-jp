@@ -4,7 +4,7 @@
       <p class="text-4xl font-black py-4">Works</p>
       <ul>
         <li>
-          <p class="text-2xl font-black">2024</p>
+          <p class="text-3xl font-black py-3">2024</p>
           <ol>
             <li>
               <a href="https://p.eagate.573.jp/game/ddr/25th/music/index.html#:~:text=%E5%90%88%E6%A0%BC%E8%80%85%E4%B8%80%E8%A6%A7-,Alkome,-AMAZE"
@@ -29,7 +29,7 @@
           </ol>
         </li>
         <li>
-          <p class="text-2xl font-black">2023</p>
+          <p class="text-3xl font-black py-3">2023</p>
           <ol>
             <li>
               <a href="https://x.com/Alkome0x63/status/1740299065190146127" target="_blank" rel="noopener noreferrer">
@@ -100,7 +100,7 @@
           </ol>
         </li>
         <li>
-          <p class="text-2xl font-black">2022</p>
+          <p class="text-3xl font-black py-3">2022</p>
           <ol>
             <li>
               <a href="https://linkco.re/DxmV8eDf?lang=ja" target="_blank" rel="noopener noreferrer">
@@ -154,7 +154,7 @@
           </ol>
         </li>
         <li>
-          <p class="text-2xl font-black">2021</p>
+          <p class="text-3xl font-black py-3">2021</p>
           <ol>
             <li>
               <a href="https://linkco.re/V4Gx40BF" target="_blank" rel="noopener noreferrer">
@@ -183,7 +183,7 @@
           </ol>
         </li>
         <li>
-          <p class="text-2xl font-black">2020</p>
+          <p class="text-3xl font-black py-3">2020</p>
           <ol>
             <li>
               <a href="https://linkco.re/hmF3YQpb?lang=ja" target="_blank" rel="noopener noreferrer">
@@ -242,7 +242,7 @@
           </ol>
         </li>
         <li>
-          <p class="text-2xl font-black">2019</p>
+          <p class="text-3xl font-black py-3">2019</p>
           <ol>
             <li>
               <a href="https://big-up.style/uliwbjKi2H" target="_blank" rel="noopener noreferrer">
@@ -302,11 +302,11 @@ span {
 }
 
 span.title {
-  @apply text-base
+  @apply text-lg
 }
 
 .note {
-  @apply text-sm
+  @apply text-base pb-2
 }
 
 li {
