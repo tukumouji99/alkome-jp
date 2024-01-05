@@ -194,6 +194,14 @@
               </a>
             </li>
             <li>
+              <a href="https://youtu.be/zXKcgRyfFro?si=Z9eoXvkY-d07YPu5" target="_blank" rel="noopener noreferrer">
+                <p>
+                  <span class="title">回せ！グルーヴ開発部 - RGB</span>
+                  <span class="note">楽曲提供(作編曲)</span>
+                </p>
+              </a>
+            </li>
+            <li>
               <a href="https://big-up.style/bMYbJSAQkt" target="_blank" rel="noopener noreferrer">
                 <p>
                   <span class="title">Drop Out EP</span>
