@@ -45,7 +45,7 @@
                 <p>
                   <span class="title">Diffusing Souls / Kara "HARDCORE UTOPIA 5"</span>
                 </p>
-                <span class="note">楽曲提供(作編曲)</span>
+                <span class="note">楽曲提供</span>
               </a>
             </li>
             <li>
