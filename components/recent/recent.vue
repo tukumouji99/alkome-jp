@@ -50,7 +50,13 @@
 
 @media (max-width: 767px) {
   .redirection {
-    @apply flex-wrap
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    /*追加*/
+    height: 100%;
+    /*追加*/
+    margin: auto;
   }
 }
 </style>
