@@ -37,7 +37,7 @@
 .video {
   width: 100%;
   position: relative;
-  padding-top: 30%;
+  padding-top: 33%;
 }
 
 .video iframe {
