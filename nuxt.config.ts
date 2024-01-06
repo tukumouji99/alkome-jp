@@ -30,6 +30,6 @@ export default defineNuxtConfig({
   },
   robots: {
     UserAgent: "*",
-    Disallow: "",
+    Allow: "/",
   }
 })
