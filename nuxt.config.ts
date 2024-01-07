@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     'nuxt-gtag',
     "@nuxtjs/robots",
+    "nuxt-simple-sitemap",
   ],
   gtag: {
     // 測定ID
@@ -31,5 +32,8 @@ export default defineNuxtConfig({
   robots: {
     UserAgent: "*",
     Allow: "/",
-  }
+  },
+  sitemap: {
+    hostname: "https://alkome.jp",
+  },
 })
