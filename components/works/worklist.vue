@@ -82,6 +82,14 @@
               </a>
             </li>
             <li>
+              <a href="https://youtu.be/mwN5Ixol494?si=azwzqW85S6HrFI3n&t=0" target="_blank" rel="noopener noreferrer">
+                <p>
+                  <span class="title">あげもん！ - 入場SE</span>
+                  <span class="note">楽曲提供</span>
+                </p>
+              </a>
+            </li>
+            <li>
               <a href="https://youtu.be/JCNbqR874SE?si=hhHsB0n4M1w47k3d&t=15" target="_blank" rel="noopener noreferrer">
                 <p>
                   <span class="title">NeverDolls - 入場SE</span>
@@ -135,8 +143,7 @@
               </a>
             </li>
             <li>
-              <a href="https://twitter.com/ENMEI_info/status/1568905368906141697?s=20" target="_blank"
-                rel="noopener noreferrer">
+              <a href="https://youtu.be/1HqWmtGCco8?si=sN9pV610-Fpn4BMt&t=602" target="_blank" rel="noopener noreferrer">
                 <p>
                   <span class="title">ENMEI - ハジマリノオト</span>
                   <span class="note">楽曲提供(作編曲・Mix)</span>
