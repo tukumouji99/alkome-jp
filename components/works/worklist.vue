@@ -287,7 +287,7 @@
             <li>
               <a href="https://www.youtube.com/watch?v=4MTFvCOHNuw" target="_blank" rel="noopener noreferrer">
                 <p>
-                  <span class="title">Sanctify 2.0 / SEVEN’s CODE</span>
+                  <span class="title">Sanctify 2.0 / UNLIMITED STUDiO "SEVEN’s CODE"</span>
                   <span class="note">楽曲提供</span>
                 </p>
               </a>
