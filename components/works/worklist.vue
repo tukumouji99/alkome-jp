@@ -27,6 +27,17 @@
               </a>
             </li>
           </ol>
+          <ol>
+            <li>
+              <a href="https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/31/index.html#:~:text=FILE%20NO.006-,Inevitable%20Magic,-Alkome(%E7%AC%AC6"
+                target="_blank" rel="noopener noreferrer">
+                <p>
+                  <span class="title">Inevitable Magic / Konami Amusement "SOUND VOLTEX"</span>
+                  <span class="note">公募採用</span>
+                </p>
+              </a>
+            </li>
+          </ol>
         </li>
         <li>
           <p class="text-3xl font-black py-3">2023</p>
