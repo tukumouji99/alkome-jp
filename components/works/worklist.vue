@@ -7,10 +7,10 @@
           <p class="text-3xl font-black py-3">2024</p>
           <ol>
             <li>
-              <a href="https://p.eagate.573.jp/game/ddr/25th/music/index.html#:~:text=%E5%90%88%E6%A0%BC%E8%80%85%E4%B8%80%E8%A6%A7-,Alkome,-AMAZE"
+              <a href="https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/30/index.html#:~:text=7mai-,Alkome,-Ashrount"
                 target="_blank" rel="noopener noreferrer">
                 <p>
-                  <span class="title">楽曲未公開 / Konami Amusement "Dance Dance Revolution"</span>
+                  <span class="title">楽曲未公開 / Konami Amusement "SOUND VOLTEX"</span>
                   <span class="note">公募採用</span>
                 </p>
               </a>
@@ -18,10 +18,10 @@
           </ol>
           <ol>
             <li>
-              <a href="https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/30/index.html#:~:text=7mai-,Alkome,-Ashrount"
+              <a href="https://p.eagate.573.jp/game/ddr/25th/music/index.html#:~:text=%E3%81%9F%E3%82%89%E5%AC%89%E3%81%97%E3%81%84%E3%81%A7%E3%81%99%EF%BC%81-,Origin%20Pulsation,-Alkome"
                 target="_blank" rel="noopener noreferrer">
                 <p>
-                  <span class="title">楽曲未公開 / Konami Amusement "SOUND VOLTEX"</span>
+                  <span class="title">Origin Pulsation / Konami Amusement "Dance Dance Revolution"</span>
                   <span class="note">公募採用</span>
                 </p>
               </a>
