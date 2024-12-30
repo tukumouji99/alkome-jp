@@ -7,10 +7,10 @@
           <p class="text-3xl font-black py-3">2024</p>
           <ol>
             <li>
-              <a href="https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/30/index.html#:~:text=7mai-,Alkome,-Ashrount"
+              <a href="https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/30/index.html#:~:text=FILE%20NO.005-,Lunatic%20Mare,-Alkome(%E7%AC%AC7"
                 target="_blank" rel="noopener noreferrer">
                 <p>
-                  <span class="title">楽曲未公開 / Konami Amusement "SOUND VOLTEX"</span>
+                  <span class="title">Lunatic Mare / Konami Amusement "SOUND VOLTEX"</span>
                   <span class="note">公募採用</span>
                 </p>
               </a>
